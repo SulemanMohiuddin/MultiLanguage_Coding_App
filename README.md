@@ -1,4 +1,5 @@
 # 🏆 Coding Competition App
+![b44580f727f85dfe3ed763fc688b6103](https://github.com/user-attachments/assets/80f53c56-6c15-4ab4-ba47-1983dda9ba3a)
 
 ![Coding Competition](https://img.shields.io/badge/Coding%20Competition%20App-Python-blue?style=for-the-badge&logo=python)
 
