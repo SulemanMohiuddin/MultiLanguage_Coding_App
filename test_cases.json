@@ -1,0 +1,14 @@
+{
+    "problems": [
+        {
+            "id": 1,
+            "description": "Sum of two numbers",
+            "visible_test_cases": [
+                {"input": "2 3", "expected_output": "5"}
+            ],
+            "hidden_test_cases": [
+                {"input": "10 15", "expected_output": "25"}
+            ]
+        }
+    ]
+}
